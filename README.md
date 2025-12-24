@@ -8,16 +8,17 @@ I'm **Sudarshan Karn** - A data-driven **Business Analyst** passionate about bui
 📊 **Data Analytics & Business Intelligence** | Creating dashboards with Looker Studio, Power BI, and Tableau  
 👯 Looking to collaborate on **Full-Stack Development**, **Data Analytics**, **Business Process Automation**, and **Cloud Solutions**  
 🌱 Specializing in **Google Workspace Automation**, **BigQuery**, **Data Warehousing**, and **Enterprise Software Development**  
-📧 How to reach me: **sudarshan.karn@gmail.com**  
+📧 How to reach me: **sudarshankarn.works@gmail.com**  
 💬 Ask me about: **Google App Scripts**, **BigQuery**, **Python**, **SQL**, **Data Visualization**, **Predictive Analytics**, **ETL Pipelines**  
-⚡ **Key Achievement**: Reduced customer escalations by **35%** through data-informed solutions at Amazon  
+⚡ **Key Achievement**: Reduced customer escalations by **35%** through data-informed solutions at Amazon               
+🌟 **Key Achievement** : Built Multiple Automation Tools to Handle Entire StartUp Use Case within a year {IMS,SMS,HR Payrolls,Custom CRMs}        
 😃 Pronouns: **He/Him**
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-karn)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudarshan-Karn)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarshan.karn@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarshankarn.works@gmail.com)
 
 ## 💻 Tech Stack:
 
