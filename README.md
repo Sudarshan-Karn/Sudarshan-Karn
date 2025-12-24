@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Sudarshan Karn** - A data-driven **Business Analyst** and **Full-Stack Developer** passionate about building efficient automation solutions and insightful data analytics dashboards.
+I'm **Sudarshan Karn** - A data-driven **Business Analyst** passionate about building efficient automation solutions and insightful data analytics dashboards.
 
 ## 💫 About Me:
 
@@ -49,7 +49,7 @@ I'm **Sudarshan Karn** - A data-driven **Business Analyst** and **Full-Stack Dev
 
 ## 📊 Experience & Achievements:
 
-### 🎯 Deep Cable - Tech Development Executive (2024 - Present)
+### 🎯 Elevolt Global LLP - Tech Development Executive (2024 - Present)
 - **Inventory Management System (IMS)**: Engineered and deployed system to streamline product tracking and optimize stock levels
 - **Supplier Management System (SMS)**: Developed solution to enhance vendor relationships and improve procurement processes  
 - **Flow Management System (FMS)**: Created system to improve operational efficiency and workflow automation
@@ -79,10 +79,7 @@ I'm **Sudarshan Karn** - A data-driven **Business Analyst** and **Full-Stack Dev
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudarshan-Karn&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-Karn&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## ✍️ Random Dev Quote:
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+)
 
 ## 🔝 Top Contributed Repo:
 
