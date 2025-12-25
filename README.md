@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sudarshan%20Karn&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Business%20Analyst%20%7C%20Data%20Automation&descAlignY=55&descSize=18">
   
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=60&lines=Google+App+Scripts+Expert;BigQuery+Data+Analyst;Business+Process+Automation;Full-Stack+Developer;Enterprise+Solutions+Builder" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=60&lines=Google+App+Scripts+Expert;BigQuery+Data+Analyst;Business+Process+Automation;Enterprise+Solutions+Builder" alt="Typing SVG">
   </h3>
 
   <p>
@@ -157,7 +157,6 @@ const sudarshan = {
 
 ---
 
-## 🚀 Featured Projects
 ## 🚀 Featured Projects
 
 <div align="center">
