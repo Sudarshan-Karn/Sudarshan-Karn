@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header with animated background -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sudarshan%20Karn&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Business%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Automation&descAlignY=55&descSize=18">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sudarshan%20Karn&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Business%20Analyst%20%7C%20Data%20Automation&descAlignY=55&descSize=18">
   
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=60&lines=Google+App+Scripts+Expert;BigQuery+Data+Analyst;Business+Process+Automation;Full-Stack+Developer;Enterprise+Solutions+Builder" alt="Typing SVG">
@@ -120,29 +120,6 @@ const sudarshan = {
 </details>
 
 <details open>
-<summary><b>Frontend Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-</details>
-
-<details open>
 <summary><b>Tools & Platforms</b></summary>
 <br>
 <p align="center">
@@ -150,25 +127,13 @@ const sudarshan = {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Zoho-FCC624?style=for-the-badge&logo=Zoho&logoColor=black">
 </p>
 </details>
 
 ---
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sudarshan-Karn&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github">
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Sudarshan-Karn&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8">
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudarshan-Karn&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook">
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan-Karn&bg_color=0d1117&color=6366f1&line=818cf8&point=a78bfa&area=true&hide_border=true">
@@ -192,14 +157,123 @@ const sudarshan = {
 
 ---
 
-## 📚 Featured Projects
+## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-Check out my repositories for:
-- **Automation Scripts**: Google Apps Script solutions for business process automation
-- **Data Pipelines**: BigQuery ETL workflows and data warehousing projects
-- **Web Applications**: Full-stack applications built with React, Next.js, and Node.js
-- **Analytics Dashboards**: Interactive dashboards with Looker Studio and Power BI
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
+### 📦 **Inventory Management System**
+
+A comprehensive automated inventory tracking solution designed to streamline stock management, automate reorder processes, and provide real-time visibility across multiple locations.
+
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-2D652D?style=flat&logo=google-apps-script&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20AppSheet-4285F4?style=flat&logo=google-appsheet&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+
+</td>
+<td width="50%" align="center">
+
+### 🏪 **Supplier Management System**
+
+End-to-end supplier lifecycle management platform enabling vendor onboarding, performance tracking, and seamless procurement automation with integrated documentation.
+
+<img src="https://img.shields.io/badge/Google%20AppSheet-4285F4?style=flat&logo=google-appsheet&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/APIs-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-FF6B35?style=flat&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 💼 **HR Payroll Management System**
+
+Integrated human resources and payroll automation platform handling employee records, attendance tracking, salary calculations, tax compliance, and automated processing.
+
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-2D652D?style=flat&logo=google-apps-script&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Validation-FFA500?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-FF6B35?style=flat&logoColor=white">
+
+</td>
+<td width="50%" align="center">
+
+### 💰 **Sales CRM**
+
+Customer relationship management platform for sales teams enabling lead tracking, deal pipeline management, customer communication history, and performance analytics.
+
+<img src="https://img.shields.io/badge/Google%20AppSheet-4285F4?style=flat&logo=google-appsheet&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Forms-4285F4?style=flat&logo=google-forms&logoColor=white">
+<img src="https://img.shields.io/badge/Automation%20Scripts-FF6B35?style=flat&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" align="center">
+
+### 🤖 **Attendance System - Python Face Recognition**
+
+AI-powered attendance management system utilizing facial recognition technology for contactless, accurate employee attendance tracking with real-time reporting and analytics.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Face%20Recognition-FF6B6B?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Database-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/API%20Integration-FF6C37?style=flat&logo=postman&logoColor=white">
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" align="center">
+
+### 📋 **Delegation Management System**
+
+Task delegation and workflow management system enabling managers to assign, track, and monitor task completion with status updates, deadline management, and performance metrics.
+
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-2D652D?style=flat&logo=google-apps-script&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-FF6B35?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Workflow%20Management-5B9BD5?style=flat&logoColor=white">
+
+</td>
+</tr>
+</table>
+</div>
+
+**Tech Stack:** `Google Apps Script` | `Google AppSheet` | `Google Sheets` | `HTML` | `CSS` | `JavaScript`
+
+### **Supplier Management System**
+End-to-end supplier lifecycle management platform enabling vendor onboarding, performance tracking, and procurement automation with integrated communication and documentation management.
+
+**Tech Stack:** `Google AppSheet` | `Google Sheets` | `APIs` | `Automation`
+
+### **HR Payroll Management System**
+Integrated human resources and payroll automation platform handling employee records, attendance tracking, salary calculations, tax compliance, and automated payroll processing.
+
+**Tech Stack:** `Google Apps Script` | `Google Sheets` | `Data Validation` | `Automation`
+
+### **Sales CRM**
+Customer relationship management platform for sales teams enabling lead tracking, deal pipeline management, customer communication history, and sales performance analytics.
+
+**Tech Stack:** `Google AppSheet` | `Google Sheets` | `Forms` | `Automation Scripts`
+
+### **Attendance System - Python Face Recognition**
+AI-powered attendance management system utilizing facial recognition technology for contactless, accurate employee attendance tracking with real-time reporting and analytics.
+
+**Tech Stack:** `Python` | `OpenCV` | `Face Recognition` | `SQL Database` | `API Integration`
+
+### **Delegation Management System**
+Task delegation and workflow management system enabling managers to assign, track, and monitor task completion with status updates, deadline management, and performance metrics.
+
+**Tech Stack:** `Google Apps Script` | `Google Sheets` | `Automation` | `Workflow Management`
 ---
 
 <div align="center">
