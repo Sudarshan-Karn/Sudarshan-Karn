@@ -247,34 +247,6 @@ Task delegation and workflow management system enabling managers to assign, trac
 </table>
 </div>
 
-**Tech Stack:** `Google Apps Script` | `Google AppSheet` | `Google Sheets` | `HTML` | `CSS` | `JavaScript`
-
-### **Supplier Management System**
-End-to-end supplier lifecycle management platform enabling vendor onboarding, performance tracking, and procurement automation with integrated communication and documentation management.
-
-**Tech Stack:** `Google AppSheet` | `Google Sheets` | `APIs` | `Automation`
-
-### **HR Payroll Management System**
-Integrated human resources and payroll automation platform handling employee records, attendance tracking, salary calculations, tax compliance, and automated payroll processing.
-
-**Tech Stack:** `Google Apps Script` | `Google Sheets` | `Data Validation` | `Automation`
-
-### **Sales CRM**
-Customer relationship management platform for sales teams enabling lead tracking, deal pipeline management, customer communication history, and sales performance analytics.
-
-**Tech Stack:** `Google AppSheet` | `Google Sheets` | `Forms` | `Automation Scripts`
-
-### **Attendance System - Python Face Recognition**
-AI-powered attendance management system utilizing facial recognition technology for contactless, accurate employee attendance tracking with real-time reporting and analytics.
-
-**Tech Stack:** `Python` | `OpenCV` | `Face Recognition` | `SQL Database` | `API Integration`
-
-### **Delegation Management System**
-Task delegation and workflow management system enabling managers to assign, track, and monitor task completion with status updates, deadline management, and performance metrics.
-
-**Tech Stack:** `Google Apps Script` | `Google Sheets` | `Automation` | `Workflow Management`
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff">
 </div>
